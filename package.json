@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "slack in nodejs",
   "scripts": {
-    "start": "node server"
+    "start": "node app"
   },
   "dependencies": {
     "handlebars": "^3.0.1",
