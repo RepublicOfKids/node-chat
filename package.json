@@ -2,7 +2,7 @@
   "name": "slack-node",
   "version": "0.0.1",
   "description": "slack in nodejs",
-  scripts": {
+  "scripts": {
     "start": "node server"
   },
   "dependencies": {
