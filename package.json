@@ -2,6 +2,9 @@
   "name": "slack-node",
   "version": "0.0.1",
   "description": "slack in nodejs",
+  scripts": {
+    "start": "node server"
+  },
   "dependencies": {
     "handlebars": "^3.0.1",
     "hapi": "^8.2.0",
